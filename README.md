@@ -99,7 +99,7 @@ https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u
 ```
 
 ```bash
-https://ghproxy.net/raw.githubusercontent.com/zhang3-gh/iptv/master/output/user_result.txt
+https://github.moeyy.xyz/https://github.com/zhang3-gh/iptv/blob/master/output/user_result.txt
 ```
 
 - 数据源：
